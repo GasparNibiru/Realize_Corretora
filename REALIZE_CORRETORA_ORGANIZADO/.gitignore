@@ -1,0 +1,21 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+
+# Variáveis e segredos
+.env
+.env.local
+
+# Dependências, caso o projeto evolua
+node_modules/
+
+# Logs
+*.log
+
+# Backups temporários
+*.bak
+*.tmp

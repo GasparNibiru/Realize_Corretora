@@ -1,0 +1,4 @@
+Arquivos organizados com sucesso.
+
+Referências locais ausentes encontradas:
+assets/videos/video_institucional.mp4
